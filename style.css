@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --cor-principal:#beed80;
-    --cor-secundaria:#51647a;
-    --cor-texto:#59d999;
-    --cor-de-fundo:#453c5c;
+    --cor-principal:#c7e99a;
+    --cor-secundaria:#a7c6e9;
+    --cor-texto:#da5cd3;
+    --cor-de-fundo:#c1adf5;
     --fonte: "Dancing Script" ,sans-serif;
 }
 
